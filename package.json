@@ -1,0 +1,29 @@
+{
+  "name": "vc_metrics",
+  "version": "1.0.0",
+  "description": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/vc_metrics.git"
+  },
+  "keywords": [
+    "metrics",
+    "vc",
+    "venture",
+    "capital",
+    "cohort",
+    "retention",
+    "retain",
+    "account"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/vc_metrics/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/vc_metrics#readme"
+}
