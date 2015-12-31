@@ -51,6 +51,4 @@ gulp.task('babel', ['make-directories'], function() {
 
 
 
-gulp.task('default', function() {
-  console.log('wheee');
-})
+gulp.task('default', ['babel']);
