@@ -5,8 +5,7 @@
   "js"    : "./src/js/**/*.js",
   "jsx"   : "./src/jsx/**/*.jsx",
 
-  "fe"    : ["./build/html/fe-index.html", "./build/js/fe-bundle.js", "./build/css/fe.css"],
-  "be"    : ["./build/html/be-index.html", "./build/js/be-bundle.js", "./build/css/be.css"],
+  "fe"    : ["./build/html/index.html", "./build/js/vcm_bundle.js", "./build/css/vcm.css"],
 
   "build" : "./build"
 
