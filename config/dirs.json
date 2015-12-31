@@ -1,0 +1,19 @@
+{
+
+    "src"            : "./src",
+    "html"           : "./src/html",
+    "less"           : "./src/less",
+
+    "build"          : "./build",
+    "built_js"       : "./build/js",
+    "built_html"     : "./build/html",
+    "built_css"      : "./build/css",
+
+    "arrange"        : "./build/arrange",
+    "arrange_fe"     : "./build/arrange/fe",
+    "arrange_be"     : "./build/arrange/be",
+
+    "react_npm"      : "./node_modules/react/dist",
+    "reactdom_npm"   : "./node_modules/react-dom/dist"
+
+}

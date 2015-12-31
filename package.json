@@ -25,5 +25,16 @@
   "bugs": {
     "url": "https://github.com/StoneCypher/vc_metrics/issues"
   },
-  "homepage": "https://github.com/StoneCypher/vc_metrics#readme"
+  "homepage": "https://github.com/StoneCypher/vc_metrics#readme",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.3.26",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  }
 }
